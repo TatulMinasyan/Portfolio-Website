@@ -32,7 +32,7 @@ jobs:
       - name: Build Next.js (static export)
         run: npm run build
 
-      - name: Upload build artifacts
+      - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
