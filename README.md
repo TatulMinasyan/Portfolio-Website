@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🌐 Live Demo
+https://tatulminasyan.github.io/Portfolio-Website/
 
-## Getting Started
+🌐 Modern Developer Portfolio
 
-First, run the development server:
+A high-performance, visually stunning portfolio website built to showcase my professional journey, skills, and creative projects. This site is designed with a focus on speed, responsiveness, and interactive user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌟 Key Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Contact Form Integration: Features a fully functional contact form integrated with an Email API, allowing visitors to send messages directly to my Gmail inbox without leaving the site.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Blazing Fast Performance: Developed using Next.js, leveraging Server-Side Rendering (SSR) and Static Site Generation (SSG) for optimal loading speeds and SEO.
 
-## Learn More
+Modern & Responsive UI: Crafted with Tailwind CSS, providing a sleek, mobile-first design that adapts seamlessly to any screen size.
 
-To learn more about Next.js, take a look at the following resources:
+Fluid & Interactive Animations: Integrated with Framer Motion to create an engaging experience with smooth transitions, hover effects, and scroll-based animations.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Optimized Assets: Utilizes Next.js built-in optimizations for images and fonts to ensure a smooth performance.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Clean & Maintainable Code: Built with modern React patterns and a component-based architecture.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🛠️ Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1.Framework: Next.js
+2.Styling: Tailwind CSS
+3.Animations: Framer Motion
+4.Icons: React Icons / Lucide React
+5.Deployment: GitHub
